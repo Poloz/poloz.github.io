@@ -4,4 +4,5 @@
 
 console.log ("Yo-hoo!");
 confirm("Works!");
-prompt("How?");
+var i=prompt("How?");
+console.log(i);
