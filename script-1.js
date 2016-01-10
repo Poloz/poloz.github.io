@@ -3,3 +3,5 @@
  */
 
 console.log ("Yo-hoo!");
+confirm("Works!");
+prompt("How?");
