@@ -6,3 +6,4 @@ console.log ("Yo-hoo!");
 confirm("Works!");
 var i=prompt("How?");
 console.log(i);
+confirm("How about: " + i + "?");
